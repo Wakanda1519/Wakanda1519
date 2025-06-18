@@ -12,9 +12,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"> |
 
 ### Фреймворки и библиотеки
-| Bootstrap | Bulma | Electron |
-|-----------|-------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="50"> |
+| Bootstrap | Bulma | Electron | Node.js |
+|-----------|-------|----------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" alt="Bootstrap"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="50" alt="Bulma"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="50" alt="Electron"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"> |
 
 ### Инструменты
 | VS Code | Cursor | Figma |
