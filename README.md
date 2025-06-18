@@ -17,9 +17,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="50"> |
 
 ### Инструменты
-| Visual Studio Code | Cursor | Open Server | Figma | Pixso |
+| Visual Studio Code | Cursor | Figma | Pixso |
 |--------------------|--------|-------------|-------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VSCode"> | <img src="https://cdn.cursor.sh/logo.png" width="50" alt="Cursor"> | <img src="https://open-server.ru/uploads/posts/2021-03/1616154102_icon.png" width="50" alt="Open Server"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" alt="Figma"> | <img src="https://pixso.cn/images/logo.svg" width="50" alt="Pixso"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VSCode"> | <img src="https://www.cursor.com/favicon-48x48.png" width="50" alt="Cursor"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" alt="Figma"> |
 
 ## 🔥 Мои интересы
 - UX/UI Design 🎨
