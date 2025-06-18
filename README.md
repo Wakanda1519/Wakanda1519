@@ -17,7 +17,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="50"> |
 
 ### Инструменты
-| Visual Studio Code | Cursor | Figma |
+| VS Code | Cursor | Figma |
 |--------------------|--------|-------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VSCode"> | <img src="https://www.cursor.com/favicon-48x48.png" width="50" alt="Cursor"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" alt="Figma"> |
 
