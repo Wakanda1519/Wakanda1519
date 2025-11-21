@@ -31,6 +31,7 @@
 *   Разработке масштабируемых веб-приложений.
 
 📫 **Связаться со мной:**  
+
 [<img src="https://img.shields.io/badge/Telegram-Connect-blue?style=for-the-badge&logo=telegram">](https://t.me/wakanda1519)
 
 ##
