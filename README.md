@@ -3,34 +3,34 @@
 Я **веб-разработчик** с фокусом на удобный UX/UI дизайн.  
 Специализируюсь на создании веб-приложений: от проектирования интерфейсов до реализации серверной логики и API.
 
-🔭 **Мой опыт и компетенции:**
+> 🌐 **Полный стек технологий и примеры работ можно посмотреть в моем [Портфолио](ССЫЛКА_НА_ТВОЙ_САЙТ)**
+
+---
+
+### 🔭 Мой опыт и компетенции
 *   **Full Cycle Development:** Разработка сайтов с нуля (Figma → Frontend → Backend).
 *   **Backend & DB:** Проектирование архитектуры БД (MySQL), разработка REST API, админ-панелей и дашбордов.
 *   **Server Administration:** Администрирование высоконагруженных игровых серверов (Rust).
 *   **GameDev Services:** Разработка стилей и функционала для сервиса донат-магазинов (GameStores).
 
-## 🛠️ Технический стек
+---
 
-### Языки программирования и разметки
-| HTML | CSS | JavaScript | PHP | SQL |
-|------|-----|------------|-----|-----|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"> |
+### 🚀 Избранные проекты
 
-### Фреймворки и библиотеки
-| Bootstrap | Bulma | Electron | Node.js |
-|-----------|-------|----------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" alt="Bootstrap"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="50" alt="Bulma"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="50" alt="Electron"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"> |
+Я разрабатываю Open Source решения и инструменты для игровых сообществ. Вот над чем я работаю сейчас:
 
-### Инструменты
-| VS Code | Cursor | Figma |
-|--------------------|--------|-------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VSCode"> | <img src="https://www.cursor.com/favicon-48x48.png" width="50" alt="Cursor"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" alt="Figma"> |
+| Проект | Описание | Технологии |
+| :--- | :--- | :--- |
+| **[SteamAuthZero](https://github.com/Wakanda1519/SteamAuthZero)** | **High-performance PHP Library.**<br>Супер-легкая библиотека для авторизации через Steam. Без зависимостей (Zero Dep), нативная реализация потоков, строгая типизация (DTO). | ![PHP](https://img.shields.io/badge/PHP-8.1+-777bb4?style=flat-square) ![License](https://img.shields.io/badge/Zero_Dep-success?style=flat-square) |
+| **[GameStores-Styles](https://github.com/Wakanda1519/GameStores-Styles)** | **UI/UX Design Kit.**<br>Набор кастомных стилей и улучшений интерфейса для донат-магазинов на платформе GameStores. Делает магазины уникальными и удобными. | ![CSS](https://img.shields.io/badge/CSS3-Design-blue?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-purple?style=flat-square) |
 
-🌱 **Сейчас я фокусируюсь на:**
+---
+
+### 🌱 Сейчас я фокусируюсь на:
 *   Углубленном изучении UX паттернов.
-*   Разработке масштабируемых веб-приложений.
+*   Разработке масштабируемых веб-приложений и оптимизации PHP кода.
 
-📫 **Связаться со мной:**  
+### 📫 Связаться со мной:
 
 [<img src="https://img.shields.io/badge/Telegram-Connect-blue?style=for-the-badge&logo=telegram">](https://t.me/wakanda1519)
 
