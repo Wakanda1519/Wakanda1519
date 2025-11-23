@@ -19,7 +19,7 @@
 
 Я разрабатываю решения и инструменты для игровых сообществ. Вот над чем я работаю сейчас:
 
-| Проект &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Описание | Технологии |
+| Проект | Описание | Технологии |
 | :--- | :--- | :--- |
 | **[SteamAuthZero](https://github.com/Wakanda1519/SteamAuthZero)**  | **High-performance PHP Library.**<br>Супер-легкая библиотека для авторизации через Steam. Без зависимостей (Zero Dep), нативная реализация потоков, строгая типизация (DTO). | ![PHP](https://img.shields.io/badge/PHP-8.1+-777bb4?style=flat-square) ![License](https://img.shields.io/badge/Zero_Dep-success?style=flat-square) |
 | **[GameStores-Styles](https://github.com/Wakanda1519/GameStores-Styles)**  | **UI/UX Design Kit.**<br>Набор кастомных стилей и улучшений интерфейса для донат-магазинов на платформе GameStores. Делает магазины уникальными и удобными. | ![CSS](https://img.shields.io/badge/CSS3-Design-blue?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI%2FUX-Figma-purple?style=flat-square) |
