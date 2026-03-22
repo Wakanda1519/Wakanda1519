@@ -12,6 +12,5 @@
 
 ---
 
-### Контакты:
+### Контакт для связи:
 * **Telegram:** [@wakanda1519](https://t.me/wakanda1519)
-* **Портфолио:** [wakanda1519.github.io](https://wakanda1519.github.io)
