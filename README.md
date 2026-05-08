@@ -12,3 +12,4 @@
 
 ### Контакт для связи:
 * **Telegram:** [@wakanda1519](https://t.me/wakanda1519)
+* **GitVerse (Аналог GitHub)** [wakanda](https://gitverse.ru/wakanda)
