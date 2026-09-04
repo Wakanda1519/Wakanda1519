@@ -1,1 +1,1 @@
-[Портфолио](https://wakanda1519.github.io)
+[Портфолио / Биография / Кто я вообще такой](https://wakanda1519.github.io)
